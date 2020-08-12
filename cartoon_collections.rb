@@ -30,4 +30,3 @@ def find_valid_calls(planeteer_calls)
   result = planeteer_calls.find {|item| item.include?("e")
 end
 result
-end
