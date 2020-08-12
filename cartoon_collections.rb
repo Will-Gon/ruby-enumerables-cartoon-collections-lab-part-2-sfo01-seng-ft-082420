@@ -31,5 +31,3 @@ def find_valid_calls(planeteer_calls)
     valid_calls.include?(nature)
 end
 end
-
-find_valid_calls
